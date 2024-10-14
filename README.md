@@ -36,6 +36,16 @@ After build the project, users can then use any of the commands below to have ac
 
 The commands options above are provided just in case some other processes may be listening at the port 5000 on the users computer. 
 
+Users can then navigate to http://127.0.0.1:5000 access point on any browser available on their computer to interract with the MINST Fashion prediction model. 
+
+The Flask based API front end will render the front end shown below:
+
+
+![image](https://github.com/user-attachments/assets/97fdfb5f-c8c1-41f1-99b5-60b1617a5d72)
+
+
+
+
 
 
 
