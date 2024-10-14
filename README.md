@@ -26,6 +26,17 @@ The user can then use the Docker command below to build the project.
                                    docker build -t flaskapi . 
 
 
+After build the project, users can then use any of the commands below to have access to the project's API end point via Flask.
+
+                                  docker run 5000:5000 flaskapi
+                                  
+                                  docker run -p 5000:5000 flaskapi
+
+                                  docker run flaskapi
+
+The commands options above are provided just in case some other processes may be listening at the port 5000 on the users computer. 
+
+
 
 
 
