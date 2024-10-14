@@ -19,6 +19,12 @@ Users can use popular IDEs such as Visual Studio Code, Windows Command prompt (C
 
 ![image](https://github.com/user-attachments/assets/5a5d6af9-5129-415b-a78a-0156706f6de1)
 
+Docker should be running on the users computer. 
+
+The user can then use the Docker command below to build the project.
+
+                    ### "docker build -t flaskapi . "
+
 
 
 
