@@ -14,5 +14,13 @@ To use the model, users should clone (or download) the code repository onto thei
 
 ![image](https://github.com/user-attachments/assets/f18c09a9-92de-468f-8d6e-206aa3697d1f)
 
+Users can use popular IDEs such as Visual Studio Code, Windows Command prompt (CMD), PyCharm, Jupyter Notebook, etc to navigate to the project directory. For example, users may obtain result similar to the figure below when Visual Studio Code (on Windows OS) is used to navigate to the project directory:
+
+
+![image](https://github.com/user-attachments/assets/5a5d6af9-5129-415b-a78a-0156706f6de1)
+
+
+
+
 
 
