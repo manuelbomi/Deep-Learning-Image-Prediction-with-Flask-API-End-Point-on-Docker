@@ -23,7 +23,7 @@ Docker should be running on the users computer.
 
 The user can then use the Docker command below to build the project.
 
-                    ### "docker build -t flaskapi . "
+                                   docker build -t flaskapi . 
 
 
 
