@@ -43,6 +43,16 @@ The Flask based API front end will render the front end shown below:
 
 ![image](https://github.com/user-attachments/assets/97fdfb5f-c8c1-41f1-99b5-60b1617a5d72)
 
+Users can click on the "Choose File" button and then click on "static", "images" and select any of the provided sample MINST Fashion images to test the API end point. 
+
+An example is shown below:
+
+
+![image](https://github.com/user-attachments/assets/dadd85ee-c6ce-429f-94cd-b5c65170288d)
+
+
+
+
 
 
 
