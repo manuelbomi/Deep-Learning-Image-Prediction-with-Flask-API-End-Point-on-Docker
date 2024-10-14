@@ -50,6 +50,15 @@ An example is shown below:
 
 ![image](https://github.com/user-attachments/assets/dadd85ee-c6ce-429f-94cd-b5c65170288d)
 
+Users can then click on the "Predict" button to obtain a prediction as shown below:
+
+![image](https://github.com/user-attachments/assets/f5184dda-65a4-4c4e-8448-1cb5d3a478db)
+
+As stated earlier, the prediction accuracies will be significantly improved in the post beta version of the project. Also, the prediction accuracies will be included. 
+
+The front end will also be included to provide for numerous other details that can provide more useful information about the MINST Fashion data. 
+
+
 
 
 
