@@ -8,3 +8,11 @@ In the project, emphasis has been placed on deployment of the model as an API en
 The popular MINST Fashion dataset has been used to train a deep learning model that has few layers. 
 
 The trained model was saved in .h5 format and Flask is used to provide an API end point that will enable users to utilize the model for prediction. 
+
+To use the model, users should clone (or download) the code repository onto their own computer system that has Docker running. The project should be decompressed (unzipped). The project directory after decompressing will look as shown below:
+
+
+![image](https://github.com/user-attachments/assets/f18c09a9-92de-468f-8d6e-206aa3697d1f)
+
+
+
